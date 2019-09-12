@@ -1,0 +1,4 @@
+for(int iter=0; iter < 5; iter = iter++ ){
+    printf("%d",iter);
+    a=b;
+}
